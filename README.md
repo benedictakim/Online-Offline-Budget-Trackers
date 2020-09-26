@@ -1,8 +1,7 @@
 # Online/Offline Budget Tracker
 This budget tracker application can be used offline.
 
-![Application Screenshot](./assets/workout-tracker-dashboard.png)
-![Application Screenshot](./assets/add-excercise.png)
+![Application Screenshot](./assets/dashboard_offline.png)
 
 ## User Story
 ```

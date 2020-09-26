@@ -1,7 +1,7 @@
 # Online/Offline Budget Tracker
 This budget tracker application can be used offline.
 
-![Application Screenshot](./assets/dashboard_offline.png)
+![Application Screenshot](./assets/dashboard_offiline.PNG)
 
 ## User Story
 ```
